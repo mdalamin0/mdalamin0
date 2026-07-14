@@ -1,107 +1,113 @@
-# Hi there! 👋 I'm Md Al-amin
+![Banner](https://raw.githubusercontent.com/mdalamin0/mdalamin0/main/assets/banner.png)
 
-### 🚀 AI-Powered Full Stack Web Developer
+<h1 align="center">Hi 👋, I'm Md Al-amin</h1>
 
-I build modern, scalable, and responsive web applications using **React, Next.js, Node.js, Express.js, PostgreSQL, Prisma, and TypeScript**.
+<h3 align="center">
+🚀 Full Stack Web Developer
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **Prisma**, **Advanced Next.js**, and **System Design**
-- 💼 Open to **Full Stack Developer** opportunities
-- 📍 Bangladesh
-- 📫 **Email:** <muhammadalamin809@gmail.com>
-- 🌐 **Portfolio:** https://md-alamin-portfolio.vercel.app
+<p align="center">
+Passionate about building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and Prisma.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
+I'm a passionate Full Stack Web Developer from Bangladesh who enjoys transforming ideas into real-world web applications. I focus on writing clean, maintainable code and continuously learning modern technologies to improve my development skills.
 
-### Backend
-- Node.js
-- Express.js
-- PostgreSQL
-- Prisma ORM
-- MongoDB
+### 🌱 Current Activities
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+- 🚀 Exploring **Advanced Next.js** and **System Design**
+- 🛠️ Building Full Stack Applications with **React** & **Node.js**
+- 📚 Learning **Prisma ORM** and Backend Best Practices
+- 💡 Solving programming challenges and improving problem-solving skills
+- 💼 Looking for Full Stack Developer opportunities
+
+---
+
+# 🛠️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,postgres,prisma,mongodb,firebase,git,github,vscode,postman" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://md-alamin-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/md-al-amin-60aa32219">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:muhammadalamin809@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mdalamin0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎫 The Dragon News Hub
+### 🏕️ Outdoor Gear Rental API
 
-Modern news portal built with **React.js**, **Tailwind CSS**, **DaisyUI**, **Firebase**, and **Context API**.
+A secure role-based REST API built with **Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, JWT, and SSLCommerz**.
 
-✨ **Features**
-- Authentication
-- Protected Routes
-- Category Based News
-- Responsive Design
+### 📰 The Dragon News Hub
 
-🔗 **Live Demo:**  
-https://the-dragon-news-hub.web.app/category/0
+A responsive news portal featuring **Firebase Authentication, Protected Routes, Category Filtering, and Dynamic Routing**.
 
-📂 **Repository:**  
-https://github.com/mdalamin0/The-Dragon-News-Hub
+### 📱 Hero App House
+
+A modern application marketplace with **React.js, LocalStorage, Dynamic Routing, and Installation Management**.
 
 ---
 
-## 🏕️ Outdoor Gear Rentals API
+# 📊 GitHub Stats
 
-A secure backend REST API built using **Node.js**, **Express.js**, **TypeScript**, **PostgreSQL**, **Prisma ORM**, **JWT**, **bcryptjs**, and **SSLCommerz**.
+<p align="center">
 
-✨ **Features**
-- Authentication & Authorization
-- Rental Management
-- Payment Integration
-- RESTful API
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdalamin0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🌍 **Live API:**  
-https://gearup-backend-szbl.onrender.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin0&layout=compact&theme=tokyonight&hide_border=true"/>
 
-📂 **Repository:**  
-https://github.com/mdalamin0/GearUp-Backend
+</p>
 
 ---
 
-## 💼 Portfolio
+# 🔥 GitHub Streak
 
-My personal portfolio showcasing my skills, projects, and experience.
+<p align="center">
 
-🌐 **Live Website:**  
-https://md-alamin-portfolio.vercel.app
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalamin0&theme=tokyonight&hide_border=true"/>
 
-📂 **Repository:**  
-https://github.com/mdalamin0/My-new-portfolio
+</p>
 
 ---
 
-## 📬 Let's Connect
+# 📈 Contribution Graph
 
-📧 Email: <muhammadalamin809@gmail.com>
+<p align="center">
 
-💼 LinkedIn:
-https://linkedin.com/in/md-al-amin-60aa32219
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalamin0&theme=tokyo-night&hide_border=true"/>
 
-🌐 Portfolio:
-https://md-alamin-portfolio.vercel.app
+</p>
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
