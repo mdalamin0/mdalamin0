@@ -84,22 +84,6 @@ I'm a passionate Full Stack Web Developer from Bangladesh who enjoys transformin
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏕️ Outdoor Gear Rental API
-
-A secure role-based REST API built with **Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, JWT, and SSLCommerz**.
-
-### 📰 The Dragon News Hub
-
-A responsive news portal featuring **Firebase Authentication, Protected Routes, Category Filtering, and Dynamic Routing**.
-
-### 📱 Hero App House
-
-A modern application marketplace with **React.js, LocalStorage, Dynamic Routing, and Installation Management**.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
