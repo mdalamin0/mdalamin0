@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/mdalamin0/mdalamin0/main/assets/banner.png)
+![Banner](./assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Al-amin</h1>
 
