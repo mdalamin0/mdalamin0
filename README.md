@@ -10,7 +10,7 @@ I build modern, responsive and scalable web applications using React, Next.js, N
 
 - 🌱 Currently learning **Prisma, Advanced Next.js & System Design**
 - 💼 Looking for **Full Stack Developer opportunities**
-- 📫 Email: your-email@gmail.com
+- 📫 Email: muhammadalamin809@gmail.com
 - 🌐 Portfolio: https://md-alamin-portfolio.vercel.app
 
 ---
@@ -34,11 +34,23 @@ I build modern, responsive and scalable web applications using React, Next.js, N
 
 ## 📌 Featured Projects
 
-### 🎫 Customer Support Zone
-Customer ticket management system built with React and Tailwind CSS.
+### 🎫 The Dragon News Hub
+The Dragon News Hub built with React.js
+Tailwind CSS
+DaisyUI
+Context API
+Firebase.
 
-### 📰 Next.js Press
-Modern news application built with Next.js.
+### 📰 Outdoor Gear Rentals API
+Outdoor Gear Rental API is a backend project and build with
+Node.js
+Express.js
+TypeScript
+PostgreSQL
+Prisma ORM
+JWT (JSON Web Token)
+bcryptjs
+SSLCommerz
 
 ### 💼 Portfolio
 My personal portfolio showcasing my projects and skills.
