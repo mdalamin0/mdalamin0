@@ -41,8 +41,8 @@ DaisyUI
 Context API
 Firebase.
 
-Live demo: https://the-dragon-news-hub.web.app/category/0
-Repository: https://github.com/mdalamin0/The-Dragon-News-Hub
+-  Live demo: https://the-dragon-news-hub.web.app/category/0
+-  Repository: https://github.com/mdalamin0/The-Dragon-News-Hub
 
 ### 📰 Outdoor Gear Rentals API
 Outdoor Gear Rental API is a backend project and build with
@@ -55,8 +55,8 @@ JWT (JSON Web Token)
 bcryptjs
 SSLCommerz
 
-Live url: https://gearup-backend-szbl.onrender.com
-Repository: https://github.com/mdalamin0/GearUp-Backend
+- Live url: https://gearup-backend-szbl.onrender.com
+- Repository: https://github.com/mdalamin0/GearUp-Backend
 
 ### 💼 Portfolio
 My personal portfolio showcasing my projects and skills.
