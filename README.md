@@ -35,25 +35,26 @@ I build modern, responsive and scalable web applications using React, Next.js, N
 ## 📌 Featured Projects
 
 ### 🎫 The Dragon News Hub
-The Dragon News Hub built with React.js
-Tailwind CSS
-DaisyUI
-Context API
-Firebase.
+The Dragon News Hub built with
+- React.js
+- Tailwind CSS
+- DaisyUI
+- Context API
+- Firebase.
 
 -  Live demo: https://the-dragon-news-hub.web.app/category/0
 -  Repository: https://github.com/mdalamin0/The-Dragon-News-Hub
 
 ### 📰 Outdoor Gear Rentals API
 Outdoor Gear Rental API is a backend project and build with
-Node.js
-Express.js
-TypeScript
-PostgreSQL
-Prisma ORM
-JWT (JSON Web Token)
-bcryptjs
-SSLCommerz
+- Node.js
+- Express.js
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- JWT (JSON Web Token)
+- bcryptjs
+- SSLCommerz
 
 - Live url: https://gearup-backend-szbl.onrender.com
 - Repository: https://github.com/mdalamin0/GearUp-Backend
