@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Md Al-amin
 
-<!--
-**mdalamin0/mdalamin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI Powered Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and scalable web applications using React, Next.js, Node.js, Express.js, PostgreSQL and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Prisma, Advanced Next.js & System Design**
+- 💼 Looking for **Full Stack Developer opportunities**
+- 📫 Email: your-email@gmail.com
+- 🌐 Portfolio: https://md-alamin-portfolio.vercel.app
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- PostgreSQL
+- Prisma
+- MongoDB
+
+---
+
+## 📌 Featured Projects
+
+### 🎫 Customer Support Zone
+Customer ticket management system built with React and Tailwind CSS.
+
+### 📰 Next.js Press
+Modern news application built with Next.js.
+
+### 💼 Portfolio
+My personal portfolio showcasing my projects and skills.
+
+---
+
+⭐ Thanks for visiting my profile!
