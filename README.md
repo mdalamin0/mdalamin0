@@ -31,7 +31,7 @@ I'm a passionate Full Stack Web Developer from Bangladesh who enjoys transformin
 ### 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,nodejs,express,prisma,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ### 🚀 Backend
