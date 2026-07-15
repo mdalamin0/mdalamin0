@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](./assets/banner2.png)
 
 <h1 align="center">Hi 👋, I'm Md Al-amin</h1>
 
